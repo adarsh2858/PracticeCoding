@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Codechef<PracticeCoding_4557f774>",
+            "request": "launch",
+            "mainClass": "Codechef",
+            "projectName": "PracticeCoding_4557f774"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-hello<PracticeCoding_4557f774>",
+            "request": "launch",
+            "mainClass": "DSA.hello",
+            "projectName": "PracticeCoding_4557f774"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HelloProject<PracticeCoding_4557f774>",
+            "request": "launch",
+            "mainClass": "HelloProject",
+            "projectName": "PracticeCoding_4557f774"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-JDBC<PracticeCoding_4557f774>",
+            "request": "launch",
+            "mainClass": "JDBC",
+            "projectName": "PracticeCoding_4557f774"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-insertion_sort<PracticeCoding_4557f774>",
+            "request": "launch",
+            "mainClass": "insertion_sort",
+            "projectName": "PracticeCoding_4557f774"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-merge_sort<PracticeCoding_4557f774>",
+            "request": "launch",
+            "mainClass": "merge_sort",
+            "projectName": "PracticeCoding_4557f774"
+        }
+    ]
+}
