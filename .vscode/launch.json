@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Triangle",
+            "request": "launch",
+            "mainClass": "Triangle",
+            "projectName": "PracticeCoding_4557f774"
+        },
+        {
+            "type": "java",
+            "name": "Launch Student",
+            "request": "launch",
+            "mainClass": "Student",
+            "projectName": "PracticeCoding_4557f774"
+        },
+        {
+            "type": "java",
+            "name": "Launch Temperature",
+            "request": "launch",
+            "mainClass": "Temperature",
+            "projectName": "PracticeCoding_4557f774"
+        },
+        {
+            "type": "java",
+            "name": "Launch CalculateGrossSalary",
+            "request": "launch",
+            "mainClass": "CalculateGrossSalary",
+            "projectName": "PracticeCoding_4557f774"
+        },
+        {
+            "type": "java",
+            "name": "Launch Calculate",
+            "request": "launch",
+            "mainClass": "Calculate",
+            "projectName": "PracticeCoding_4557f774"
+        },
+        {
+            "type": "java",
+            "name": "Launch Myself",
+            "request": "launch",
+            "mainClass": "Myself",
+            "projectName": "PracticeCoding_4557f774"
+        },
+        {
+            "type": "java",
             "name": "Debug (Launch) - Current File",
             "request": "launch",
             "mainClass": "${file}"
